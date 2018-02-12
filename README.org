@@ -1,0 +1,17 @@
+#+TITLE:happynewyeaR 
+#+AUTHOR: Fred Vanwin
+#+email: f.vanwindekens@gmail.com
+-----
+
+Simple animated greetings card in R
+
+* Help
+in R
+
+#+BEGIN_SRC R
+
+source("happynewyeaR.R")
+
+#+END_SRC
+
+
