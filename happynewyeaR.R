@@ -67,7 +67,7 @@ n <- 100
             )
  
         if (i == 1) {
-            fumee <- cbind(rep(c(77,78),2),0.4,rep(sample(c("ง","#","@","&"),1),4))
+            fumee <- cbind(rep(c(77,78),2),0.4,rep(sample(c("ยง","#","@","&"),1),4))
         }
         else {
             fumee <- rbind(
@@ -80,7 +80,7 @@ n <- 100
                       NA##fumee[((4*(i-1))-3):(4*(i-1)),3]
                       )
                 )
-            fumee[,3] <- c(rep(sample(c("~","@","ง"),1),4),fumee[1:(4*(i-1)),3])
+            fumee[,3] <- c(rep(sample(c("~","@","ยง"),1),4),fumee[1:(4*(i-1)),3])
         }
 
         d <- rbind(neige,
