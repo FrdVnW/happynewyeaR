@@ -1,11 +1,11 @@
-## Bons voeux de Fred Vanwin 2017
-## ==============================
+## Season's Greetings in R 
+## =======================
 
 
 ## for geek level+++, try txtplot ;-)
 ## uncomment lines 8 and 96
 ## comment line 98
-## library(txtplot) # du coup, install library if needed
+## library(txtplot) # install this library if needed
 
 
 rm(list=ls())
