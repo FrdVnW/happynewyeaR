@@ -95,7 +95,7 @@ n <- 100
 
         ##        txtplot(x,y,pch=pch)
         
-        plot(x,y,pch=gsub('\\.','*',pch),xaxt='n',yaxt='n',bty='n',xlab='',ylab='',main=substr("meRRy cRistmas and happy new yeaR !",1,i-29))
+        plot(x,y,pch=gsub('\\.','*',pch),xaxt='n',yaxt='n',bty='n',xlab='',ylab='',main=substr("meRRy chRistmas and happy new yeaR !",1,i-29))
         Sys.sleep(.1) 
     }
 }
