@@ -45,7 +45,7 @@ n <- 100
                       round(as.numeric(star[10-stari,2])+sin(theta)/20,2),
                       "#"
                       )
-                )
+            )
         }
 
         if(stari < 0 ){
